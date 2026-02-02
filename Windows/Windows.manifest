@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 971764805
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: pti.sd
+      Dependencies: {}
+    Info_1:
+      Name: pti.hd
+      Dependencies: {}
+    Info_2:
+      Name: pti_building
+      Dependencies:
+        Dependency_0: pti.hd
+    Info_3:
+      Name: images.sd
+      Dependencies: {}
+    Info_4:
+      Name: images.hd
+      Dependencies: {}
+    Info_5:
+      Name: scenes
+      Dependencies:
+        Dependency_0: images.hd
