@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 60113978
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e25039217e5bd6f8d8429c0ce2bb91db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f00b714536ca7f35f7c456a73006cc50
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e25039217e5bd6f8d8429c0ce2bb91db
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/building/Building/01/Public Tranpoort inquiry office LOD/Public Tranpoort
+  inquiry office LOD.prefab
+Dependencies:
+- G:/inak/assetbundletest/AssetBundles/windows/pti.hd
